@@ -1,27 +1,27 @@
 @font-face {
     font-family: 'Writer';
-    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Regular.ttf') format('ttf'),
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Regular.ttf') format('truetype'),
     font-weight: 400;
     font-style: normal;
 };
 
 @font-face {
     font-family: 'Writer';
-    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Italic.ttf') format('ttf'),
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Italic.ttf') format('truetype'),
     font-weight: 400;
     font-style: italic;
 };
 
 @font-face {
     font-family: 'Writer';
-    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Bold.ttf') format('ttf'),
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-Bold.ttf') format('truetype'),
     font-weight: 700;
     font-style: normal;
 };
 
 @font-face {
     font-family: 'Writer';
-    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-BoldItalic.ttf') format('ttf'),
+    src: url('https://cdn.jsdelivr.net/gh/talovsky/font-writer@master/ttf/Writer-BoldItalic.ttf') format('truetype'),
     font-weight: 700;
     font-style: italic;
 };
